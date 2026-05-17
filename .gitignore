@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated wallpaper downloads
+/mabinogi_wallpapers_4k/
+/mabinogi_wallpapers_4k.zip
